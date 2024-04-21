@@ -861,11 +861,6 @@ blockquote {
 .google-map {
   border-radius: var(--border-radius-medium);
 }
-.container img {
-  height: 100%;
-  width: 100%;
-  object-fit: contain;
-}
 
 .contact-form .form-floating>textarea {
   border-radius: var(--border-radius-medium);
